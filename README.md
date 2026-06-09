@@ -78,3 +78,21 @@ jupyter notebook notebooks/superstore_analysis.ipynb
 ---
 
 ## Project Structure
+```
+superstore-sales-analysis/
+├── data/
+│   └── superstore.csv
+├── images/
+│   ├── 01_sales_profit_by_region.png
+│   ├── 02_profit_margin_by_category.png
+│   ├── 03_monthly_sales_trend.png
+│   ├── 04_profit_by_subcategory.png
+│   ├── 05_discount_vs_profit.png
+│   └── 06_monthly_seasonality.png
+├── notebooks/
+│   └── superstore_analysis.ipynb
+└── README.md
+```
+---
+
+*Analysis by Ronaldo Columna — ITLA, Ciencia de Datos e Inteligencia Artificial, 2026*
